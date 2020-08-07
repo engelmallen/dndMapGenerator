@@ -1,0 +1,10 @@
+#myMap
+{	
+	height: 500px;
+	background: url("img/bgMapForest.jpg");
+}
+
+.mapElement
+{
+	background-color: none;
+}
